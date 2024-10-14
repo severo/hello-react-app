@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  STATIC_SPACE: "severo/parquet-viewer"
+  STATIC_SPACE: "severo/hello-react-app"
   DIRECTORY: "dist"
 
 jobs:
