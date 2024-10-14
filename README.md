@@ -1,3 +1,11 @@
+# Create a static Hugging Face space with React
+
+This repository is an example of a React app deployed to a static Hugging Face space using a GitHub action.
+
+Read the blog post: https://blog.rednegra.net/2024/10/14/create-a-static-huggingface-space-with-react
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
